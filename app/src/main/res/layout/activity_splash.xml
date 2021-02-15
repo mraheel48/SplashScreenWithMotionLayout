@@ -39,7 +39,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:alpha="0.0"
-        android:text="Made by\nEmbersoft"
+        android:text="Made by\n Raheel"
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.MaterialComponents.Subtitle2"
         android:textColor="#fff"
